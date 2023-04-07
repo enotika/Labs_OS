@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Temp\OS_lab1_Dyubkova\OS_lab1_Dyubkova\Source.cpp(83,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OS_lab1_Dyubkova.vcxproj -> D:\Temp\OS_lab1_Dyubkova\Debug\OS_lab1_Dyubkova.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Temp\OS_Dyubkova_lab2_var6\OS_Dyubkova_lab2_var6_child\main.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Temp\OS_Dyubkova_lab2_var6\OS_Dyubkova_lab2_var6_child\main.cpp(23,23): warning C4018: <: несоответствие типов со знаком и без знака
+  OS_Dyubkova_lab2_var6_child.vcxproj -> D:\Temp\OS_Dyubkova_lab2_var6\Debug\OS_Dyubkova_lab2_var6_child.exe
